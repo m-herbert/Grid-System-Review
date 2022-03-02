@@ -1,0 +1,13 @@
+body{
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
+.carousel {
+height: auto;
+  width: 100%;
+}
